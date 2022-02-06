@@ -1,4 +1,3 @@
-from re import I
 import string
 
 alphabet = list(string.ascii_lowercase + string.ascii_lowercase)
